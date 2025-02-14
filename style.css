@@ -13,6 +13,13 @@
     text-align: center;
 }
 
+.blog-container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .index {
     background-color: rgba(0, 0, 0, 0.1);
     padding: 25px;
@@ -25,4 +32,9 @@
     font-weight: bold;
     background-color: rgba(0, 0, 0, 0.1);
     border-radius: 7px;
+}
+
+body {
+    background-image: url(recipes/bgs/pexels-ella-olsson-572949-1640773.jpg);
+    background-size: cover;
 }
