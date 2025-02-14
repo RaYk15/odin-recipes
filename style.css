@@ -1,0 +1,28 @@
+.blog-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: rgb(219, 216, 197);
+    width: 800px;
+    padding: 40px;
+    border: 3px solid rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    margin: auto;
+}
+
+.blog-container h1 {
+    text-align: center;
+}
+
+.index {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+}
